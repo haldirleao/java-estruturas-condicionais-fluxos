@@ -3,13 +3,13 @@
 ### Instrutor: Thiago Leite e Carvalho
 https://www.linkedin.com/in/thiago-leite-e-carvalho-1b337b127
 
-Engenheiro de Software, Professor, Escritor
-
-Java backend developer (SERPRO), professor, escritor
+Engenheiro de Software, Java backend developer (SERPRO), professor, escritor.
 
 ### Tópicos estudados:
-- Operadores relacionais. 
-- Operadores lógicos. 
+- Operadores relacionais 
+- Operadores lógicos
+- Controle de fluxo
+- Blocos
 
 ### Materiais de apoio
 - https://github.com/tlcdio - Github com projetos de exemplos utilizados nos cursos DIO com o instrutor Thiago Leite.
