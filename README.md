@@ -13,9 +13,10 @@ Engenheiro de Software, Java backend developer (SERPRO), professor, escritor.
 
 ### Materiais de apoio
 - https://github.com/tlcdio - Github com projetos de exemplos utilizados nos cursos DIO com o instrutor Thiago Leite.
+- [The Java Tutorials: Language Basics](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
 - https://www.w3schools.com/java/java_operators.asp
 
 ---
 haldirleao
 
-Iniciado em 27/mar/2023. Concluído em dd/mm/2023.
+Iniciado em 27/mar/2023. Concluído em 28/03/2023.
